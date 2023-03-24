@@ -11,7 +11,7 @@ searchBtn.addEventListener("click", () => {
       //   console.log(data[0].capital[0]);
       //   console.log(data[0].flags.svg);
       //   console.log(data[0].name.common);
-      //   console.log(data[0].continents[0]);
+      //   console.log(data[0].continents[0]);lsdjldj
       //   console.log(Object.keys(data[0].currencies)[0]);
       //   console.log(data[0].currencies[Object.keys(data[0].currencies)].name);
       //   console.log(
